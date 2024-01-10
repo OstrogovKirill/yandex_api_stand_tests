@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/yandex_api_stand_tests.iml" filepath="$PROJECT_DIR$/.idea/yandex_api_stand_tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yandex_api_stand_tests2/.idea/yandex_api_stand_tests2.iml" filepath="$PROJECT_DIR$/../yandex_api_stand_tests2/.idea/yandex_api_stand_tests2.iml" />
     </modules>
   </component>
 </project>
